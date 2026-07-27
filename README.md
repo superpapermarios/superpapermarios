@@ -1,4 +1,4 @@
-# superpapermarios
+
 
 <p align="center">
 <img width="750" height="33" alt="image" src="https://github.com/user-attachments/assets/94883440-739b-4e12-aceb-79804416b5bd" />
